@@ -7,7 +7,7 @@
       <span class="icon-bar"></span>
       <span class="icon-bar"></span>
     </button>
-      <a class="navbar-brand active" href="<?php echo base_url();?>">Key Management System</a>
+      <a class="navbar-brand active" href="<?php echo base_url();?>"><?php echo $_site_title;?></a>
   </div>
 
   <!-- Collect the nav links, forms, and other content for toggling -->

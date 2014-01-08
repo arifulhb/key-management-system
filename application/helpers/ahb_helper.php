@@ -13,8 +13,8 @@
 function site_data()
     {
 
-        $data['_site_title']='Key Management';
-        $data['_site_description']='SITE DESCRIPTION';
+        $data['_site_title']='KMS';
+        $data['_site_description']='Key Management System';
         $data['_author']='Ariful Haque Bhuiyan';
 
         $CI = get_instance();        

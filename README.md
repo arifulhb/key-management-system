@@ -1,4 +1,3 @@
-key-management-system
-=====================
-
+KMS (Key Management System)
+=============================
 A simple Key Management System.
