@@ -1,6 +1,5 @@
 //Apppath return the server path
-define([], function(){
-    //http://greentechcs.com/iplayedthehomeofgolf/
-    //http://dogbreedslist/
+define([], function(){   
+    //Change this return value same as base_url
     return "http://keymgt/";
 });
